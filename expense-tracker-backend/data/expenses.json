@@ -1,0 +1,43 @@
+[
+  {
+    "id": "aafe8e0b-5e6e-4e4a-855e-f279e7383d68",
+    "amount": 500,
+    "date": "2026-03-31",
+    "category": "FOOD",
+    "note": "",
+    "createdAt": "2026-03-31T05:46:54.697Z"
+  },
+  {
+    "id": "19798192-ad24-421a-88b0-7169693930ef",
+    "amount": 1000,
+    "date": "2026-04-03",
+    "category": "SHOPPING",
+    "note": "dress",
+    "createdAt": "2026-04-03T08:20:34.202Z"
+  },
+  {
+    "id": "3a16e686-18ed-437a-b5a7-666ba641ba71",
+    "amount": 5999,
+    "date": "2026-04-03",
+    "category": "OTHER",
+    "note": "",
+    "createdAt": "2026-04-03T08:21:01.283Z",
+    "updatedAt": "2026-04-03T08:22:30.896Z"
+  },
+  {
+    "id": "746f37e5-8139-44c6-b408-5f713ff673b5",
+    "amount": 2500,
+    "date": "2026-04-01",
+    "category": "TRAVEL",
+    "note": "",
+    "createdAt": "2026-04-03T08:21:20.611Z"
+  },
+  {
+    "id": "0bee698e-249f-4fd9-98b9-977db5c0326d",
+    "amount": 499.99,
+    "date": "2026-04-01",
+    "category": "FOOD",
+    "note": "",
+    "createdAt": "2026-04-03T08:21:42.938Z"
+  }
+]

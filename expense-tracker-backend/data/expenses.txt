@@ -1,0 +1,7 @@
+=== Expense Tracker Log ===
+
+[2026-03-31T05:46:54.699Z] ADDED | ID: aafe8e0b-5e6e-4e4a-855e-f279e7383d68 | Amount: ₹500 | Category: FOOD | Note: N/A | Date: 2026-03-31
+[2026-04-03T08:20:34.204Z] ADDED | ID: 19798192-ad24-421a-88b0-7169693930ef | Amount: ₹1000 | Category: SHOPPING | Note: dress | Date: 2026-04-03
+[2026-04-03T08:21:01.284Z] ADDED | ID: 3a16e686-18ed-437a-b5a7-666ba641ba71 | Amount: ₹6000.01 | Category: OTHER | Note: N/A | Date: 2026-04-03
+[2026-04-03T08:21:20.612Z] ADDED | ID: 746f37e5-8139-44c6-b408-5f713ff673b5 | Amount: ₹2500 | Category: TRAVEL | Note: N/A | Date: 2026-04-01
+[2026-04-03T08:21:42.939Z] ADDED | ID: 0bee698e-249f-4fd9-98b9-977db5c0326d | Amount: ₹499.99 | Category: FOOD | Note: N/A | Date: 2026-04-01
