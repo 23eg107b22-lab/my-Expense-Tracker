@@ -1,4 +1,4 @@
-const BASE = "";
+const BASE = "https://expense-backend-5j7u.onrender.com";
 
 async function handleResponse(res) {
   const data = await res.json();
